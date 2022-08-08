@@ -6,7 +6,7 @@ import numpy as np
 turtle.speed(8)
 nr_flowers = 28
 
-# Array with possible locations of the flower
+# Array with possible locations of the star
 Locations = np.zeros((28,2))
 for i in range(28):
     if i<7:
